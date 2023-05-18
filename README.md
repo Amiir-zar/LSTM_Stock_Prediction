@@ -15,8 +15,11 @@ saw disproportionate quarterly growth due to COVID, specifically Amazon, Zoom an
 
 ### Dependencies
 * Tensorflow
+* Keras
 * matplotlib
 * Numpy
 * pandas
+* yfinace
+
 
 
